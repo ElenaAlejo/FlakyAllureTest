@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Gradle suite",
+    "children" : [ {
+      "name" : "Gradle test",
+      "children" : [ {
+        "name" : "TestNG",
+        "children" : [ {
+          "name" : "testNG",
+          "uid" : "f9f9e8b83000ecc3",
+          "parentUid" : "1a44276a0c78add68ad9a544a7a65b92",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594630258542,
+            "stop" : 1594630258555,
+            "duration" : 13
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testNGFailure",
+          "uid" : "83ade1c9bb069e31",
+          "parentUid" : "1a44276a0c78add68ad9a544a7a65b92",
+          "status" : "failed",
+          "time" : {
+            "start" : 1594630258650,
+            "stop" : 1594630258654,
+            "duration" : 4
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1a44276a0c78add68ad9a544a7a65b92"
+      } ],
+      "uid" : "6edf7b6d6ec097775c478f55491c2a49"
+    } ],
+    "uid" : "350742de9190af4e6a560acc7ec0396c"
+  } ]
+}

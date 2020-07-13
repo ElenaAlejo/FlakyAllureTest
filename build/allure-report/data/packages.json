@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestNG",
+    "children" : [ {
+      "name" : "testNG",
+      "uid" : "f9f9e8b83000ecc3",
+      "parentUid" : "c41f50df16b8fcf9789b4e1dda05ddb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594630258542,
+        "stop" : 1594630258555,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testNGFailure",
+      "uid" : "83ade1c9bb069e31",
+      "parentUid" : "c41f50df16b8fcf9789b4e1dda05ddb8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1594630258650,
+        "stop" : 1594630258654,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c41f50df16b8fcf9789b4e1dda05ddb8"
+  } ]
+}

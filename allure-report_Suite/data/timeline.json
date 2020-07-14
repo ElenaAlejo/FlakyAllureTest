@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "w022581901803m-5.local",
+    "children" : [ {
+      "name" : "61369@w022581901803m-5.local.main(1)",
+      "children" : [ {
+        "name" : "testNG",
+        "uid" : "f0d6b5ce349cd9cb",
+        "parentUid" : "3cb43a8f69be1a980125dac668a896f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594685877624,
+          "stop" : 1594685877633,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testNGFailure",
+        "uid" : "527ec335dbdaabd8",
+        "parentUid" : "3cb43a8f69be1a980125dac668a896f1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1594685877693,
+          "stop" : 1594685877701,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3cb43a8f69be1a980125dac668a896f1"
+    } ],
+    "uid" : "e64be561568ae68ccd9054fa1873cabd"
+  } ]
+}

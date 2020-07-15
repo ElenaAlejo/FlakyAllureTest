@@ -1,0 +1,21 @@
+[ {
+  "uid" : "4fc6c250233d3330",
+  "name" : "testNGFailure",
+  "time" : {
+    "start" : 1594780777664,
+    "stop" : 1594780777676,
+    "duration" : 12
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a48af05b656f8b97",
+  "name" : "testNG",
+  "time" : {
+    "start" : 1594780777300,
+    "stop" : 1594780777363,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

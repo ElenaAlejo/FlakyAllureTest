@@ -3,12 +3,6 @@ plugins {
     id 'io.qameta.allure' version '2.5'
 }
 
-allure {
-    autoconfigure = true
-    version = '2.7.0'
-
-}
-
 group 'org.example'
 version '1.0-SNAPSHOT'
 
@@ -19,9 +13,11 @@ repositories {
 
 allure {
     version = '2.7.0'
-    autoconfigure = true
     aspectjweaver = true
     allureJavaVersion = '2.13.5'
+    useTestNG {
+        version = '2.13.5'
+    }
 }
 
 dependencies {
@@ -51,6 +47,5 @@ dependencies {
 test { //this is the gradle task to be executed
     useTestNG() { //Tells Gradle to use TestNG
         useDefaultListeners = true // Tells TestNG to execute its default reporting structure
-
     }
 }

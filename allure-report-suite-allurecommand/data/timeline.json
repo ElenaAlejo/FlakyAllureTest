@@ -1,0 +1,35 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "w022581901803m-5.local",
+    "children" : [ {
+      "name" : "testNG",
+      "uid" : "fd332a8f3af0e2c",
+      "parentUid" : "e64be561568ae68ccd9054fa1873cabd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594745827000,
+        "stop" : 1594745827072,
+        "duration" : 72
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testNGFailure",
+      "uid" : "acff29f1823a1bfa",
+      "parentUid" : "e64be561568ae68ccd9054fa1873cabd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1594745827000,
+        "stop" : 1594745827003,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e64be561568ae68ccd9054fa1873cabd"
+  } ]
+}

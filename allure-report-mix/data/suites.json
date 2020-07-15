@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Flaky suite",
+    "children" : [ {
+      "name" : "testNG",
+      "children" : [ {
+        "name" : "TestNG",
+        "children" : [ {
+          "name" : "testNG",
+          "uid" : "a48af05b656f8b97",
+          "parentUid" : "ab8df3363b8032014cd82a9e90191a82",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594780777300,
+            "stop" : 1594780777363,
+            "duration" : 63
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "testNGFailure",
+          "uid" : "4fc6c250233d3330",
+          "parentUid" : "ab8df3363b8032014cd82a9e90191a82",
+          "status" : "failed",
+          "time" : {
+            "start" : 1594780777664,
+            "stop" : 1594780777676,
+            "duration" : 12
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ab8df3363b8032014cd82a9e90191a82"
+      } ],
+      "uid" : "e3cf30aa8f64a427c6765a5ca845854a"
+    } ],
+    "uid" : "1cd2ad23410701881f6b58f416435107"
+  } ]
+}

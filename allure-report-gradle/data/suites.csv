@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","TestNG.testNG","11",""
+"failed","TestNG.testNGFailure","3",""

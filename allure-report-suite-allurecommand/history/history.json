@@ -1,0 +1,41 @@
+{
+  "TestNG:TestNG#testNGFailure" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "acff29f1823a1bfa",
+      "status" : "failed",
+      "statusDetails" : "java.lang.AssertionError: expected [4] but found [3]",
+      "time" : {
+        "start" : 1594745827000,
+        "stop" : 1594745827003,
+        "duration" : 3
+      }
+    } ]
+  },
+  "TestNG:TestNG#testNG" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd332a8f3af0e2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594745827000,
+        "stop" : 1594745827072,
+        "duration" : 72
+      }
+    } ]
+  }
+}

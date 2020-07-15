@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "java.lang.AssertionError: expected [4] but found [3]",
+      "children" : [ {
+        "name" : "testNGFailure",
+        "uid" : "acff29f1823a1bfa",
+        "parentUid" : "5ec9a066c1a51785a4af283d02b2acbb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1594745827000,
+          "stop" : 1594745827003,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ec9a066c1a51785a4af283d02b2acbb"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

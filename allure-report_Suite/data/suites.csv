@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jul 14 09:17:57 JST 2020","Tue Jul 14 09:17:57 JST 2020","9","Flaky suite","testNG","TestNG","TestNG","testNG","testNG",""
-"failed","Tue Jul 14 09:17:57 JST 2020","Tue Jul 14 09:17:57 JST 2020","8","Flaky suite","testNG","TestNG","TestNG","testNGFailure","testNGFailure",""

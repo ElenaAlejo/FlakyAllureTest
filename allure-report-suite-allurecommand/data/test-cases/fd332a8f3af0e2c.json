@@ -1,0 +1,52 @@
+{
+  "uid" : "fd332a8f3af0e2c",
+  "name" : "testNG",
+  "historyId" : "TestNG:TestNG#testNG",
+  "time" : {
+    "start" : 1594745827000,
+    "stop" : 1594745827072,
+    "duration" : 72
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "w022581901803m-5.local"
+  }, {
+    "name" : "testClass",
+    "value" : "TestNG"
+  }, {
+    "name" : "package",
+    "value" : "TestNG"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd332a8f3af0e2c.json",
+  "parameterValues" : [ ]
+}
